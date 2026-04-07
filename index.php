@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 /**
  * CodeIgniter
@@ -314,6 +314,5 @@ switch (ENVIRONMENT)
  * And away we go...
  */
 require_once BASEPATH.'core/CodeIgniter.php';
-=======
-hello Vestoh website .endcode
->>>>>>> 21b5e3054d783f952757156568d5b1783d06b22c
+
+
