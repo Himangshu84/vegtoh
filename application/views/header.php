@@ -10,29 +10,29 @@
         <meta name="description" content=""/>
         <meta name="keywords" content=""/>
         <!-- favicon -->
-        <link rel="shortcut icon" type="image/favicon" href="image/logo.png">
+        <link rel="shortcut icon" type="image/favicon" href="<?=base_url();?>/public/image/logo.png">
         <!-- bootstrap -->
-        <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/bootstrap.min.css">
         <!-- simple-line icon -->
-        <link rel="stylesheet" type="text/css" href="css/simple-line-icons.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/simple-line-icons.css">
         <!-- font-awesome icon -->
-        <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/font-awesome.min.css">
         <!-- themify icon -->
-        <link rel="stylesheet" type="text/css" href="css/themify-icons.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/themify-icons.css">
         <!-- ion icon -->
-        <link rel="stylesheet" type="text/css" href="css/ionicons.min.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/ionicons.min.css">
         <!-- owl slider -->
-        <link rel="stylesheet" type="text/css" href="css/owl.carousel.min.css">
-        <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/owl.carousel.min.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/owl.theme.default.min.css">
         <!-- swiper -->
-        <link rel="stylesheet" type="text/css" href="css/swiper.min.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/swiper.min.css">
         <!-- animation -->
-        <link rel="stylesheet" type="text/css" href="css/animate.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/animate.css">
         <!-- style -->
-        <link rel="stylesheet" type="text/css" href="css/style.css">
-		<link rel="stylesheet" type="text/css" href="css/style2.css">
-		<link rel="stylesheet" type="text/css" href="css/style8.css">
-        <link rel="stylesheet" type="text/css" href="css/responsive8.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/style.css">
+		<link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/style2.css">
+		<link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/style8.css">
+        <link rel="stylesheet" type="text/css" href="<?=base_url();?>/public/css/responsive8.css">
     </head>
     <body>
         <!-- top notificationbar start -->
@@ -87,7 +87,7 @@
                                 <!-- logo start -->
                                 <div class="header-element logo">
                                     <a href="index.html">
-                                        <img src="image/vegtoh.png" alt="logo-image" class="img-fluid">
+                                        <img src="<?=base_url();?>/public/image/vegtoh.png" alt="logo-image" class="img-fluid">
                                     </a>
                                 </div>
                                 <!-- logo end -->
